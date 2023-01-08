@@ -1,5 +1,4 @@
 node_modules
-.DS-Store
 # not used for deploy
 # input.css
 # tailwind.config.js
